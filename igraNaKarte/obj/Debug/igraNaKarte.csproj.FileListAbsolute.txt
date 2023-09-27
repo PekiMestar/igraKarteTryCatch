@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\bin\Debug\igraNaKarte.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\bin\Debug\igraNaKarte.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\bin\Debug\igraNaKarte.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\obj\Debug\igraNaKarte.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\obj\Debug\igraNaKarte.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\obj\Debug\igraNaKarte.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\obj\Debug\igraNaKarte.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\igraNaKarte\obj\Debug\igraNaKarte.pdb
